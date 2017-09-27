@@ -1,3 +1,6 @@
+#Leonel R.
+#Facultad de Ingenieria Universidad Buenos Aires
+
 #*******CONSTANTES GLOBALES**********************************************
 CONTORNO_CELDA = [ (-1,-1), (-1,0), (-1,1), (0,-1), (0,1), (1,-1), (1,0), (1,1) ]
 MAX_CELULAS_VIVAS = 3
